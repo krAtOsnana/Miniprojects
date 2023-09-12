@@ -23,7 +23,6 @@ html,body{
     /* background-color: rgb(12, 12, 113); */
     border-radius: 10px;
     overflow: hidden;
-   
 }
 
 #toppanel{
@@ -45,7 +44,7 @@ html,body{
     /* background-color: red; */
     color: aquamarine;
 }
-#box{
+.box{
     height: 60%;
     width: 35px;
     border-radius: 2px;
@@ -67,10 +66,13 @@ html,body{
    padding-top: 1%;
    padding-bottom: 1%;
     background-color: rgb(28, 2, 99);
+    color: white;
     /* justify-content: space-between ; */
     gap: 8px;
+  
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: center;
+    align-items: center;
     /* margin:10px; */
     flex-wrap: wrap;
     
