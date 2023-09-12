@@ -1,0 +1,6 @@
+STEPS OF APPROACH:
+1>sabse pehle ye pata karo ki mause rectangel pe aya and move hua
+ and current location
+ 2>ab ye calculate kro ki  hum  center s left pe hain  ya right pe hain
+ 3>ab ye calculate kro ki hum center se kitna right/left pe hain or utni intensity se color change karo
+ 
